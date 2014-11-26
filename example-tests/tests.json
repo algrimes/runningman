@@ -1,0 +1,26 @@
+{
+	"tests": [
+		{
+			"testName":"my-test-name",
+			"testSteps": [
+				{
+					"stepDescription": "go to https://www.google.co.uk"
+				},
+				{
+					"stepDescription": "search for kittens"
+				}
+			]
+		},
+		{
+			"testName":"my-second-test-name",
+			"testSteps": [
+				{
+					"stepDescription": "go to https://www.bbc.co.uk"
+				},
+				{
+					"stepDescription": "read the news for a bit"
+				}
+			]
+		}		
+	]
+}

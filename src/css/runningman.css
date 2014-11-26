@@ -1,0 +1,24 @@
+dl, dt, dd, ol {
+	padding: 0;
+	margin: 0;
+}
+
+ol {
+	margin-left: 20px;
+	margin-bottom: 1em;
+}
+
+li {
+	line-height: 1.5em;
+}
+
+dt {
+	font-size: 1.2em;
+	margin-bottom: 1em;
+}
+
+dd {
+	margin-bottom: 2em;
+	padding-bottom: 2em;
+	border-bottom: 1px solid black;
+}

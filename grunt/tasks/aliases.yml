@@ -1,0 +1,4 @@
+default: [s]
+
+s:
+ - connect:server
